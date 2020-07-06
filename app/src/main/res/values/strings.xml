@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Random Number</string>
+    <string name="warmning_text">Nhập lại số</string>
+</resources>
